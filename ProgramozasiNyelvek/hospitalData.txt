@@ -1,0 +1,123 @@
+ID;Name;age;insurance;priority;attendant
+60;Michael B. Jordan;78;BASIC;3;Dr. Lawrence Kutner
+22;Michael Massee;24;BASIC;4;Dr. Remy Hadley
+96;Ezra Powell;46;ADVANCED;3;Dr. Lisa Cuddy
+3;Dr. Allison Cameron;35;ADVANCED;;
+91;Fletcher Stone;23;BASIC;1;Dr. Allison Cameron
+53;Jeffrey Wright;27;BASIC;8;Dr. Chris Taub
+50;Tucker Brown;26;BASIC;4;Dr. Allison Cameron
+73;Sam McGinley;72;BASIC;5;Dr. Amber Volakis
+41;Juan Alvarez;44;ADVANCED;9;Dr. Chris Taub
+84;Michael O'Keefe;27;BASIC;4;Dr. Lisa Cuddy
+27;Cynthia Nixon;45;BASIC;3;Dr. Remy Hadley
+117;Taylor Swift;26;ADVANCED;8;Dr. Lisa Cuddy
+18;Joffrey Baratheon;12;ADVANCED;100;Dr. Gregory House
+85;Elizabeth Mitchell;38;BASIC;3;Dr. Allison Cameron
+100;Wood Harris;86;BASIC;4;Dr. Gregory House
+51;Elias Koteas;54;BASIC;7;Dr. Amber Volakis
+59;Matthew Lillard;64;BASIC;1;Dr. Gregory House
+7;Dr. Eric Foreman;40;ADVANCED;;
+9;Dr. Amber Volakis;28;ADVANCED;;
+57;Alan Rosenberg;37;BASIC;4;Dr. Allison Cameron
+28;Thad Burton;85;BASIC;8;Dr. Eric Foreman
+69;Thom Barry;37;BASIC;6;Dr. Amber Volakis
+44;Benjamyn Bird;52;NONE;4;Dr. James Wilson
+113;Fred Durst;25;BASIC;9;Dr. Allison Cameron
+15;Eddie Murphy;37;BASIC;6;Dr. Chris Taub
+17;Jake Weber;42;BASIC;6;Dr. Remy Hadley
+120;Dr. Sebastian Charles;45;ADVANCED;6;Dr. Lisa Cuddy
+58;Ron Livingston;35;BASIC;9;Dr. Robert Chase
+93;Joel Grey;58;BASIC;7;Dr. Gregory House
+63;Dominic Purcell;46;BASIC;2;Dr. James Wilson
+95;Melinda Bardach;72;BASIC;1;Dr. Robert Chase
+46;Nick Chinlund;47;BASIC;9;Dr. Gregory House
+38;Sidney Merrick;72;BASIC;1;Dr. Remy Hadley
+89;Chuck Norris;63;NONE;0;Dr. Eric Foreman
+107;Tyson Ritter;64;BASIC;5;Dr. Gregory House
+29;Kurt Fuller;35;BASIC;6;Dr. Robert Chase
+48;Ryan Hurst;26;BASIC;10;Dr. Chris Taub
+76;Piper Perabo;35;BASIC;3;Dr. Remy Hadley
+94;David Strathairn;37;BASIC;8;Dr. James Wilson
+66;Adam Rothenberg;39;BASIC;4;Dr. Gregory House
+67;Derek Hoyt;52;BASIC;1;Dr. Robert Chase
+41;Juan Alvarez;44;ADVANCED;9;Dr. Robert Chase
+6;Dr. Robert Chase;34;ADVANCED;;
+23;Frank Sinatra;78;ADVANCED;1;Dr. Gregory House
+5;Dr. James Wilson;38;ADVANCED;;
+14;Meat Loaf;28;NONE;6;Dr. James Wilson
+104;Apple Jack;21;NONE;10;Dr. James Wilson
+74;Carmen Electra;26;BASIC;2;Dr. James Wilson
+2;Dr. Lisa Cuddy;42;ADVANCED;;
+20;Nick Greenwald;58;BASIC;9;Dr. Lawrence Kutner
+24;Nate Weimann;63;BASIC;3;Dr. Allison Cameron
+111;Maethuselah;969;NONE;9;Dr. Remy Hadley
+92;Michelle Trachtenberg;47;BASIC;7;Dr. James Wilson
+103;Anica Jovanovich;37;BASIC;9;Dr. Gregory House
+49;Evan Jones;27;BASIC;3;Dr. Gregory House
+75;Marcus Giamatti;37;BASIC;3;Dr. Remy Hadley
+33;Jason Momoa;63;BASIC;8;Dr. Eric Foreman
+12;Jon Seda;31;BASIC;7;Dr. Amber Volakis
+55;Patrick Stump;35;BASIC;8;Dr. James Wilson
+16;Nash Gordon;25;BASIC;4;Dr. Robert Chase
+110;Marty McFly;-13;BASIC;2;Dr. James Wilson
+56;Mark Adams;83;ADVANCED;1;Dr. Eric Foreman
+42;Alan Alston;23;BASIC;6;Dr. Chris Taub
+101;Jack Handsome;38;NONE;10;Dr. Lisa Cuddy
+88;Amanda Seyfried;73;BASIC;7;Dr. Remy Hadley
+87;Joe Jessica Reese;36;ADVANCED;9;Dr. Gregory House
+35;Scott Foley;53;BASIC;8;Dr. Gregory House
+52;Kurtwood Smith;73;BASIC;3;Dr. Chris Taub
+39;Barbie;23;ADVANCED;6;Dr. Gregory House
+105;Ray Abruzzo;48;BASIC;9;Dr. Amber Volakis
+116;Eddie Thai;37;BASIC;7;Dr. James Wilson
+83;Jeremy Renner;64;BASIC;1;Dr. Gregory House
+81;Mendelson Roe;99;BASIC;4;Dr. Allison Cameron
+97;Bruce Steinerman;27;BASIC;7;Dr. Lawrence Kutner
+86;Christopher Cousins;47;BASIC;7;Dr. Lisa Cuddy
+11;John Henry Gilles;54;BASIC;10;Dr. Amber Volakis
+121;Jose Zuniga;19;BASIC;7;Dr. James Wilson
+10;Dr. Remy Hadley;31;ADVANCED;;
+21;Tory Kittles;27;BASIC;10;Dr. James Wilson
+64;Lorenzo Whibberly;58;BASIC;1;Dr. Remy Hadley
+118;Jeffrey Keener;46;BASIC;9;Dr. Gregory House
+98;Felicia Day;36;ADVANCED;3;Dr. Lawrence Kutner
+90;Walter Cofield;56;BASIC;7;Dr. Amber Volakis
+106;Harry Lennix;84;BASIC;2;Dr. Gregory House
+8;Dr. Chris Taub;45;ADVANCED;;
+13;Sarah Wayne Callies;46;BASIC;4;Dr. Eric Foreman
+119;Dr. Emmett Brown;65;ADVANCED;3;Dr. Lisa Cuddy
+70;MacKenzie Astin;63;BASIC;4;Dr. Eric Foreman
+99;Robin Tunney;62;ADVANCED;6;Dr. Gregory House
+32;Darrien McCurdy;25;BASIC;4;Dr. Chris Taub
+31;Arthie Black;43;BASIC;1;Dr. Lawrence Kutner
+43;Batman;40;NONE;10;Dr. James Wilson
+79;David Costabile;83;BASIC;9;Dr. James Wilson
+61;Ethan Embry;17;BASIC;9;Dr. Lawrence Kutner
+115;Jack Moriarty;52;BASIC;7;Dr. Remy Hadley
+47;Jude Ciccolella;52;BASIC;7;Dr. Lisa Cuddy
+1;Dr. Gregory House;45;ADVANCED;;
+40;Jeffrey Reilich;72;BASIC;2;Dr. Lawrence Kutner
+112;Rebecca Adler;26;BASIC;2;Dr. Lisa Cuddy
+65;Evan Peters;47;BASIC;7;Dr. Amber Volakis
+72;Wentworth Miller;83;BASIC;6;Dr. Lawrence Kutner
+114;Nestor Carbonell;46;BASIC;6;Dr. Allison Cameron
+82;Lin-Manuel Miranda;56;ADVANCED;9;Dr. Eric Foreman
+54;Bill Kid Owen;27;BASIC;3;Dr. Lisa Cuddy
+71;Zoe McLellan;27;BASIC;2;Dr. Amber Volakis
+19;Hank Wiggen;62;BASIC;9;Dr. Lisa Cuddy
+30;Daisy Blumen;63;BASIC;4;Dr. Lawrence Kutner
+78;Julia Perez;37;BASIC;6;Dr. Chris Taub
+45;Michael Nouri;47;BASIC;4;Dr. Robert Chase
+25;Micah Smith;56;BASIC;6;Dr. Robert Chase
+4;Dr. Lawrence Kutner;33;ADVANCED;;
+68;Mickey Mouse;93;NONE;8;Dr. James Wilson
+77;Jay Karnes;33;BASIC;9;Dr. Allison Cameron
+102;Katheryn Winnick;63;BASIC;3;Dr. Gregory House
+36;Oliver Simpson;47;BASIC;4;Dr. Remy Hadley
+108;Mary Augustine;25;ADVANCED;4;Dr. Lisa Cuddy
+34;Joshua Malina;28;BASIC;3;Dr. Lisa Cuddy
+37;Dennis Boutsikaris;26;BASIC;7;Dr. James Wilson
+62;Amy Landecker;67;BASIC;8;Dr. Eric Foreman
+109;Jimmy Quidd;36;BASIC;2;Dr. Lisa Cuddy
+80;Sprague Grayden;43;BASIC;9;Dr. Allison Cameron
+26;Zeljko Ivanek;42;BASIC;2;Dr. Robert Chase
