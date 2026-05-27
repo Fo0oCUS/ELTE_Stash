@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <NoWarn>$(NoWarn);MSB3101</NoWarn>
+    </PropertyGroup>
+
+
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\Quiz.DataAccess\Quiz.DataAccess.csproj" />
+    </ItemGroup>
+
+
+
+
+    <ItemGroup>
+      <PackageReference Include="ELTE.FI.SARuleSet" Version="3.2.1">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+</Project>
